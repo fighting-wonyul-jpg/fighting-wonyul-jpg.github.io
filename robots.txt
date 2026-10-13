@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fighting-wonyul-jpg.github.io/homepage/sitemap.xml
